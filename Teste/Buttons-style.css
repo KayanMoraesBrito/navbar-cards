@@ -1,0 +1,28 @@
+.head{
+    color: #575757;
+}
+
+.navbar{
+    background-color: black;
+    overflow: hidden;
+    text-align: center;
+}
+
+.navbar a {
+    display: inline-block;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: background-color 0.3s ease;}
+
+.navbar a:hover{
+ background-color: #575757;
+ color: #f8f6f6;
+}
+
+.navbar h2{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
